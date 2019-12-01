@@ -2961,8 +2961,8 @@
   "RootNamespace": "hellomvc",
   "Documents": [
     {
-      "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
+      "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Hello/Index.cshtml",
+      "TargetPath": "Views/Hello/Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2976,11 +2976,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Shared/_CookieConsentPartial.cshtml",
       "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
@@ -2991,8 +2986,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
+      "FilePath": "/home/cbyte/Documents/csharp/aspcore-learn/hellomvc/Views/Hello/HelloFromMvc.cshtml",
+      "TargetPath": "Views/Hello/HelloFromMvc.cshtml",
       "FileKind": "mvc"
     },
     {

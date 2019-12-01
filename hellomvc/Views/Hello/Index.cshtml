@@ -1,0 +1,9 @@
+@model hellomvc.Models.HelloViewModel
+
+<form asp-action="PostHello">
+    <div class="form-group">
+        <label for="firstName">First Name:</label>
+        <input type="text" asp-for="FirstName" id="firstName" placeholder="Please provide a name" />
+   </div>
+   <button type="submit" class="btn btn-primary">Submit</button>
+</form>
